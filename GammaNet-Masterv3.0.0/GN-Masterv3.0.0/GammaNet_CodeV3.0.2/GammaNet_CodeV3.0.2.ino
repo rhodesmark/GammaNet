@@ -3,9 +3,9 @@
 #include "pinSetup.h"  // PinSetup - Pin Settings
 
 #define uS_TO_S_FACTOR 1000000  /* Conversion factor for microseconds to seconds */
-#define SLEEP_DURATION 600     /* 300 Sleep time (10 minutes in seconds) */
+#define SLEEP_DURATION 300     /* 300 Sleep time (10 minutes in seconds) */
 RTC_DATA_ATTR int bootCount = 0;
-
+unsigned long startMillis = millis();
 HardwareSerial GPS_Serial(2);  // UART2 for GPS
 // Define RX and TX pins for the GPS
 static const int RXPin = 33, TXPin = 32;
@@ -16,6 +16,8 @@ byte ubxCfgNav[] = {
   0x00, 0x00, 0x03, 0x00, 0x00, 0x00, 
   0x00, 0x00, 0x01, 0x00, 0x6B, 0x60 
 };
+
+
 
 void sendUBXCommand(byte *cmd, uint16_t len) {
   for (uint16_t i = 0; i < len; i++) {

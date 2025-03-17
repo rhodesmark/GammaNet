@@ -7,6 +7,7 @@ void goToSleep(int seconds);
 void stayAwake(int centisecondsUntilNextSleep);
 void core1Task(void *pvParameters);
 bool getGPSTime(int &hour, int &minute, int &second, int &centisecond);
+void startGetGPSTime();
 void getGPSInfo();
 void displayGPSInfo();
 void displayNodeInfo();
