@@ -1,1 +1,0 @@
-#define Relay3v 22  // Relay 3v Switching
