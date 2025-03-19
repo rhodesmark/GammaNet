@@ -1,7 +1,10 @@
 ------------------------------
 [v4.0.2 Beta] - 19/03/2025
 1: Added a SD Card Check in the Void Setup process, to check if the SD card is present, the system will not continue if the SD cards is not in place.
-2: SD Card Not Working on ESP32-Wroom-32, Tried all pins, but none of them seem to mount the SD Card properly.
+2: SD Card working on the ESP32-Wroom-32
+3: SD Card Working on the ESP32-Wroom-32/38 Pin Model - Not Yet Coded or Tested.
+-----Commit to GitHub------ 
+------------------------------
 
 ------------------------------
 [v4.0.1 Beta] - 18/03/2025

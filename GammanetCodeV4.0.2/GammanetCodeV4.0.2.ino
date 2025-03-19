@@ -62,6 +62,7 @@ else if(DeviceType == "ESP32-Wroom-32"){
   }
   Serial.println("SD card initialized.");
 }//End of SD card Set up for: ESP32-Wroom-32
+
 else if(DeviceType == "ESP32-Wroom-32_38"){}
 else{
     Serial.print(F("No Node Type Defined."));
@@ -83,3 +84,5 @@ else{
 void loop() {
     // Core 0 tasks here
 }
+
+void powerOnTone(){}
