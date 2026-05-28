@@ -1,0 +1,21 @@
+id,researchLocation,nodeID,nodeType,deviceType,ringID,latitude,longitude,OsSheet,OsEastings,OsNorthings,OsElevation,uSvH_Min,uSvH_Max,uSvH_Avg,status,active,deployed
+1,Dartmoor,GnRo,GNRoot,HeltecV4,1-50,50.54027,-3.96422,SX,60913,73010,1342,0.07,0.24,0.42,Awake,Yes,Deployed
+2,Dartmoor,4ff8,SensorNode,HeltecV4,1 - 50,50.54071966,-3.96422,SX,60967,73064,1338,0.02,0.38,39.95,Awake,Yes,Deployed
+3,Dartmoor,ef1c,SensorNode,HeltecV4,1 - 50,50.54040895,-3.9635471,SX,60961,73026,1338,0.04,0.17,39.44,Awake,Yes,Deployed
+4,Dartmoor,d5c4,SensorNode,HeltecV4,1 - 50,50.53993,-3.96376,SX,60944,72972,1341,0.04,0.32,0,Awake,Yes,Deployed
+5,Dartmoor,9b64,SensorNode,HeltecV4,2 - 100,50.54101,-3.96503,SX,60858,73095,1338,0.04,0.21,0,Awake,Yes,Deployed
+6,Dartmoor,17c8,SensorNode,HeltecV4,2 - 100,50.54159,-3.96432,SX,60910,735138,0,0.02,0.22,0,Awake,Yes,Deployed
+7,Dartmoor,f060,SensorNode,HeltecV4,1 - 50,50.54040895,-3.9648929,,0,0,0,0.02,0.32,0,Awake,Yes,Deployed
+8,Dartmoor,19b8,SensorNode,HeltecV4,1 - 50,50.53990622,-3.96463588,,0,0,0,0.01,0.29,0,Awake,Yes,Deployed
+9,Dartmoor,6f7c,SensorNode,HeltecV4,2 - 100,50.54068686,-3.9662387,,0,0,0,0.05,0.45,0,Awake,Yes,Deployed
+10,Dartmoor,9adc,SensorNode,HeltecV4,3 - 150,50.54172513,-3.9658835,,0,0,0,0.03,0.27,0,Awake,Yes,Deployed
+11,Dartmoor,f0fp,SensorNode,HeltecV4,4 - 200,50.54096476,-3.96758451,,0,0,0,0.01,0.32,0,Awake,Yes,Deployed
+12,Dartmoor,6c68,SensorNode,HeltecV4,2 - 100,50.53999209,-3.9655658,,0,0,0,0.04,0.28,0,Awake,Yes,Deployed
+13,Dartmoor,7cec,SensorNode,HeltecV4,2 - 100,50.53999209,-3.9628742,,0,0,0,0.02,0.52,0,Awake,Yes,Deployed
+14,Dartmoor,b01c,SensorNode,HeltecV4,2 - 100,50.53937068,-3.96422,,0,0,0,0.04,0.18,0,Awake,Yes,Deployed
+15,Dartmoor,2844,SensorNode,HeltecV4,4 - 200,50.53971419,-3.96691161,,0,0,0,0.06,0.37,0,Awake,Yes,Deployed
+16,Dartmoor,9e1c,SensorNode,HeltecV4,3 - 150,50.53917865,-3.96546763,,0,0,0,0.03,0.27,0,Awake,Yes,Deployed
+17,Dartmoor,d324,SensorNode,HeltecV4,2 - 100,50.54099757,-3.96338825,,0,0,0,0.03,0.18,0,Awake,Yes,Deployed
+18,Dartmoor,7230,SensorNode,HeltecV4,3 - 150,50.54068686,-3.9622013,,0,0,0,0.01,0.15,0,Awake,Yes,Deployed
+19,Dartmoor,b238,SensorNode,HeltecV4,4 - 200,50.53971419,-3.96152839,,0,0,0,0.01,0.28,0,Awake,Yes,Deployed
+20,Dartmoor,94ec,SensorNode,HeltecV4,3 - 150,50.53917865,-3.96297237,,0,0,0,0.05,0.39,0,Awake,Yes,Deployed
